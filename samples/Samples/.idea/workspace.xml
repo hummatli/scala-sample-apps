@@ -20,11 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="errorHandling.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="errorHandling.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/errorHandling.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="34">
+              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="patternMatching.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/patternMatching.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -123,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.errorHandling">
+  <component name="RunManager" selected="Application.patternMatching">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -161,6 +171,20 @@
     <configuration name="errorHandling" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="errorHandling" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="samples" />
+      <envs />
+    </configuration>
+    <configuration name="patternMatching" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="patternMatching" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -265,18 +289,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Grades" />
       <item index="1" class="java.lang.String" itemvalue="Application.readFromFiles" />
       <item index="2" class="java.lang.String" itemvalue="Application.readFromFiles (1)" />
       <item index="3" class="java.lang.String" itemvalue="Application.errorHandling" />
+      <item index="4" class="java.lang.String" itemvalue="Application.patternMatching" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.errorHandling" />
-        <item index="1" class="java.lang.String" itemvalue="Application.readFromFiles (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.readFromFiles" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Grades" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.patternMatching" />
+        <item index="1" class="java.lang.String" itemvalue="Application.errorHandling" />
+        <item index="2" class="java.lang.String" itemvalue="Application.readFromFiles (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.readFromFiles" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Grades" />
       </list>
     </recent_temporary>
   </component>
@@ -470,8 +496,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/errorHandling.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="34">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patternMatching.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding />
         </state>
       </provider>
